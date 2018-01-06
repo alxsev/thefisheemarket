@@ -6,7 +6,7 @@ body {
 	text-align: center;
 }
 #logo {
-	background-image: url(/logo.jpeg);
+	background-image: url(/logo.jpg);
 	height: 500px;
 	width: 500px;
 }
