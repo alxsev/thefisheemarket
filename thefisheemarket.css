@@ -10,5 +10,6 @@ body {
 	height: 500px;
 	width: 500px;
 	background-size: 100%;
-	background-position: center;
+	margin-left: auto;
+	margin-right: auto;
 }
