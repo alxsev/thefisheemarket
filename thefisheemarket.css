@@ -6,7 +6,10 @@ body {
 	text-align: center;
 }
 #logo {
-	background-image: url(/logo.jpg);
+	background-image: url(/logo.jpeg);
 	height: 500px;
 	width: 500px;
+	background-size: 100%;
+	display: block;
+	margin: auto;
 }
