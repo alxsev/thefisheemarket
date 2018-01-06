@@ -1,0 +1,11 @@
+body {
+	background-color: black;
+	color: white;
+	font-size: 250%;
+	font-family: "Helvetica";
+	text-align: center;
+}
+#logo {
+	height: 300px;
+	width: 300px;
+}
